@@ -168,8 +168,6 @@ ADDCOLUMNS(
 
 ---
 
----
-
 ## 👤 Author
 
 **Charu**
