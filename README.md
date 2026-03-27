@@ -1,11 +1,5 @@
-````markdown
+
 # 📊 Sales Performance Dashboard (Power BI)
-
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
-![DAX](https://img.shields.io/badge/Language-DAX-blue)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-
----
 
 ## 📌 Project Overview
 This project showcases an **interactive Sales Performance Dashboard** built using **Power BI**. It provides actionable insights into sales trends, profitability, customer behavior, and regional performance to support data-driven decision-making.
@@ -133,7 +127,8 @@ ADDCOLUMNS(
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+<img width="1344" height="757" alt="Screenshot 2026-03-26 215916" src="https://github.com/user-attachments/assets/ae762553-2265-498a-958d-555a4ac8d49c" />
+
 
 ---
 
